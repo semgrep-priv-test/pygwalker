@@ -16,24 +16,7 @@ dependencies = [
     "ipython",
     "astor",
     "typing_extensions",
-    "ipywidgets",
-    "pydantic",
-    "psutil",
-    "duckdb>=0.10.1,<0.11.0",
-    "pyarrow",
-    "sqlglot>=23.15.8",
-    "requests",
-    "arrow",
-    "sqlalchemy",
-    "gw_dsl_parser==0.1.49",
-    "appdirs",
-    "segment-analytics-python==2.2.3",
-    "pandas",
-    "pytz",
-    "kanaries_track==0.0.5",
-    "cachetools",
-    "packaging",
-    "numpy<2.0.0"
+    "ipywidgets"
 ]
 [project.urls]
 homepage = "https://github.com/Kanaries/pygwalker"
